@@ -1,16 +1,14 @@
-### Hi there 👋
+# Jonathan Matheus Da Silva
+Web Design, UX/UI Design
 
-<!--
-**johhnsjohhns/johhnsjohhns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :house: Maceió/AL
+- :iphone: (82) 9 8829 - 0728
+- :envelope: johhns@johhns.com
 
-Here are some ideas to get you started:
+No momento venho estudando UI/UX Design, além de PHP através do livro
+'PHP programando com orientação a objetos', tenho interesse em estudar, HTML, CSS,
+JavaScript e React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+você pode ver meu currículo completo acessando o repositório ['curriculo'](https://github.com/johhnsjohhns/curriculo)
