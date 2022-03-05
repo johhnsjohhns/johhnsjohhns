@@ -1,5 +1,5 @@
 # Jonathan Matheus Da Silva
-Web Design, UX/UI Design
+**Web Design, UX/UI Design**
 
 - :house: Maceió/AL
 - :iphone: (82) 9 8829 - 0728
