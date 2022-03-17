@@ -1,5 +1,5 @@
 # Jonathan Matheus Da Silva
-**Web Design | UX/UI Design | PHP**
+**UI/UX Design & Full Stack Developer**
 
 :house: Maceió/AL - :iphone: (82) 9 8829 - 0728 - :envelope: johhns@johhns.com
 
